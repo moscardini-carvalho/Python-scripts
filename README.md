@@ -2,6 +2,8 @@
 
 Este repositório básico é um repositório onde posto as resoluções de alguns exercícios do Curso em vídeo;
 
+Na pasta "Básico" está divido em outras duas pastas, uma somente de desafios e outra de exercícios;
+
 ## Tecnologia utilizada:
 
 - ![badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
