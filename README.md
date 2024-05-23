@@ -1,16 +1,10 @@
-# Scripts de Python3 	![badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# ![badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Exercícios de Python 3 ![badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Este repositório serve para armazenar meus scripts Python.
+Este repositório básico é um repositório onde posto as resuluções de alguns exercícios do Curso em vídeo;
 
-## Sobre o Repositório
+## Tecnologia utilizada:
 
-Este repositório foi criado para você organizar seus scripts Python de forma eficiente. 
-
-Armazenar seus scripts em um só lugar
-Compartilhar seus scripts com outros desenvolvedores
-Controlar o histórico de versões dos seus scripts
-Obter feedback e colaboração em seus scripts
-
+- ![badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
 
