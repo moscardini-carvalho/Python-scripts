@@ -1,0 +1,1 @@
+print(f"sempre em frente")
