@@ -1,0 +1,1 @@
+print(f'"Hoje é um bom dia!"')
