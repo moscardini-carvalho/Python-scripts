@@ -1,1 +1,0 @@
-print(f"Você  está  aprendendo  Python  !")

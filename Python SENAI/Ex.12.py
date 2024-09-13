@@ -1,1 +1,0 @@
-print(f"Gostei disso!")

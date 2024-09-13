@@ -1,1 +1,0 @@
-print(F"João Pedro João Pedro João Pedro João Pedro João Pedro")

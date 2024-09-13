@@ -1,1 +1,0 @@
-print(f"Ola, seja bem-vindo João Pedro 19 anos")

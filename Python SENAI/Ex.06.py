@@ -1,1 +1,0 @@
-print(f"Meu nome é João.")
